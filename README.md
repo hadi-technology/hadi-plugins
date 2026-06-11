@@ -28,6 +28,8 @@ Then browse and install plugins with:
 
 The catalog lives in [`.claude-plugin/marketplace.json`](.claude-plugin/marketplace.json). Each entry names a plugin and the git repository it ships from. When you add this marketplace, Claude Code reads that manifest and lets you install any listed plugin from its own repo.
 
+Maintaining the catalog (adding a plugin, conventions, ecosystem map): see [CLAUDE.md](CLAUDE.md).
+
 ## License
 
 © HADI Technology. See individual plugin repositories for their respective licenses.
