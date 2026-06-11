@@ -13,6 +13,14 @@
         "type": "git",
         "url": "https://github.com/hadi-technology/HADI-MeetingOps.git"
       }
+    },
+    {
+      "name": "phased-workflow",
+      "description": "Structured development methodology for Claude Code: Plan → Review → Approve → Implement → QA. Five phased skills enforcing four-eyes review and evidence-before-claims.",
+      "source": {
+        "type": "git",
+        "url": "https://github.com/hadi-technology/phased-workflow.git"
+      }
     }
   ]
 }
