@@ -21,6 +21,14 @@
         "type": "git",
         "url": "https://github.com/hadi-technology/phased-workflow.git"
       }
+    },
+    {
+      "name": "hadi-skills",
+      "description": "A collection of standalone AI workflow skills. Includes /ob — cache-first codebase orientation that maps stack, architecture, and gotchas for an agent before any work starts.",
+      "source": {
+        "type": "git",
+        "url": "https://github.com/hadi-technology/hadi-skills.git"
+      }
     }
   ]
 }
